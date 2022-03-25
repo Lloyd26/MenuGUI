@@ -1,0 +1,6 @@
+name: MenuGUI
+version: ${project.version}
+main: me.lloyd26.menugui.MenuGUI
+api-version: 1.18
+authors: [Lloyd26]
+description: A plugin to easily create menu GUI's
